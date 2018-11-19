@@ -20,12 +20,12 @@ weight = 1
 
 [[education.courses]]
   course = "PhD Student, Quantitative Genetics"
-  institution = "Virginia Tech"
+  institution = "University of Nebraska - Lincoln & Virginia Tech"
 
-[[education.courses]]
-  course = "PhD Student, Quantitative Genetics"
-  institution = "University of Nebraska - Lincoln"
-  year = 2018
+# [[education.courses]]
+# course = "PhD Student, Quantitative Genetics"
+# institution = "University of Nebraska - Lincoln"
+# year = 2018
   
 [[education.courses]]
   course = "M.S., Animal Breeding and Genetics"
@@ -43,4 +43,4 @@ weight = 1
 
 I am a Ph.D. student in the [Morota Lab](http://morotalab.org/) in the Department of Animal and Poultry Sciences 
 at Virginia Polytechnic Institute and State University. My research interest is focused 
-on applying statistical theory to study quantitative genetics.
+on applying statistical methods to study quantitative genetics.
