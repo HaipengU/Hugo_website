@@ -1,8 +1,10 @@
 ---
 title: "Genomic-based BLUP (GBLUP)"
-output:  
- html_document: 
-  smart: false
+author: "HaipengYu"
+output: 
+  rmdformats::readthedown:
+    code_folding: hide
+    lightbox: true
 ---
 
 ```{r setup, include=FALSE}

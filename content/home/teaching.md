@@ -14,4 +14,4 @@ weight = 50
 +++
 
 * Guest Lecture
-  + ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits [Slide](/teaching/BLUP_MME.pdf) & [R](/teaching/GBLUP.Rmd)
+  + ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits [Slide](/teaching/BLUP_MME.pdf) & [R](/Rmd/GBLUP.html)
