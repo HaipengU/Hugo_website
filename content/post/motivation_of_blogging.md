@@ -7,4 +7,4 @@ tags:
 - blog
 title: Motivation for Blogging
 ---
-This blog will include my research associated materials. 
+This blog will include my research associated materials and R code.
