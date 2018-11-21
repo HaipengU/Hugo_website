@@ -171,10 +171,10 @@ baseName = "feed"
   url = "cv/HaipengYu_cv.pdf"
   weight = 5
 
-# [[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 6
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
 
 [Languages.en]
   languageCode = "en-us"
