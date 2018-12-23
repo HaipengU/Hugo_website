@@ -17,4 +17,9 @@ url_pdf = "papers/BayesianCFA_BN.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+
+[[url_custom]]
+name = "DOI"
+url = "https://www.biorxiv.org/content/early/2018/10/05/435792"
+
 +++

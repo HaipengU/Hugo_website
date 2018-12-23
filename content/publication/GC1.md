@@ -4,7 +4,7 @@ abstract_short = ""
 authors = ["__Haipeng Yu__", "Matthew L. Spangler", "Ronald M. Lewis", "and Gota Morota"]
 date = "2017-08-31"
 # image = ""
-# image_preview = ""
+image_preview = ""
 math = false
 publication = "*G3: Genes, Genomes, Genetics.*"
 publication_short = ""
@@ -17,4 +17,13 @@ url_pdf = "papers/GC1.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+
+[[url_custom]]
+name = "DOI"
+url = "http://www.g3journal.org/content/7/10/3543"
+
+# Optional featured image (relative to `static/img/` folder).
+# [header]
+#  image = "headers/GC1.jpg"
+#  caption = "GC1"
 +++

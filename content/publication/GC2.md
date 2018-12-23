@@ -17,4 +17,9 @@ url_pdf = "papers/GC2.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1093/jas/sky316"
+
 +++
