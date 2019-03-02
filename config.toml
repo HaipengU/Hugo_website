@@ -157,8 +157,8 @@ baseName = "feed"
   weight = 2
 
 [[menu.main]]
-  name = "Softwares"
-  url = "#softwares"
+  name = "Software"
+  url = "#software"
   weight = 3
 
 [[menu.main]]
