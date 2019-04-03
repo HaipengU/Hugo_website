@@ -41,6 +41,5 @@ weight = 1
 
 # About me
 
-I am a Ph.D. student in the [Morota Lab](http://morotalab.org/) in the Department of Animal and Poultry Sciences 
-at Virginia Polytechnic Institute and State University. My research interest is focused 
-on applying statistical methods to study quantitative genetics.
+I am a Ph.D. student in the [Morota Lab](http://morotalab.org/) at the Department of Animal and Poultry Sciences 
+at Virginia Polytechnic Institute and State University. My overarching research interest is to leverage statistical methods and bioinformatics to better understand the genotype-phenotype map. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits and genome-wide association analysis.
