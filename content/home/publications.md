@@ -16,7 +16,12 @@ weight = 20
 count = 10
 
 # Show publication details (such as abstract)? (true/false)
-list_format = false
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 3
 
 # Link.
 publication_type = "-1"
