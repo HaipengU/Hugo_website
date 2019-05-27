@@ -19,3 +19,5 @@ weight = 50
 * Graduate Teaching Assistant at North Dakota State University
   + ANSC 357: Animal Genetics
   + AGRI 189: Skills for Academic Success
+* Misc
+  + Gaussian Bayesian Network \[[R](/Rmd/GBN.html)\]
