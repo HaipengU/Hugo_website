@@ -13,6 +13,7 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
+    "Graphical Model",
     "Methodology"
   ]
 
