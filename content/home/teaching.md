@@ -15,7 +15,9 @@ weight = 50
 ### Guest Lecture 
   * Univeristy of Nebraska-Lincoln
       * ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits [Slide](/pdf/BLUP_MME.pdf) & [R](/Rmd/GBLUP.html)
-  
+  * Virginia Tech
+      * GWAS Workshop [HTML](/Rmd/GWASWorkshop_day3/BCFA_BN.html)
+
 ### Graduate Teaching Assistant
   * Virginia Tech
       * ALS 3104: Animal Breeding and Genetics
