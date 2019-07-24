@@ -12,7 +12,7 @@ subtitle = ""
 weight = 50
 
 +++
-### Guest Lecture 
+### Guest Instructor 
   * Univeristy of Nebraska-Lincoln
       * ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits [Slide](/pdf/BLUP_MME.pdf) & [R](/Rmd/GBLUP.html)
   * Virginia Tech
