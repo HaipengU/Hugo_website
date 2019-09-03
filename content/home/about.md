@@ -20,7 +20,7 @@ weight = 1
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "PhD Student, Quantitative Genetics"
+  course = "PhD Candidate, Quantitative Genetics"
   institution = "University of Nebraska - Lincoln & Virginia Tech"
 
 # [[education.courses]]
@@ -42,5 +42,5 @@ weight = 1
 
 # About me
 
-I am a Ph.D. student in the [Morota Lab](http://morotalab.org/) at the Department of Animal and Poultry Sciences 
+I am a Ph.D. candidate in the [Morota Lab](http://morotalab.org/) at the Department of Animal and Poultry Sciences 
 at Virginia Polytechnic Institute and State University. My overarching research interest is to leverage statistical methods and bioinformatics to better understand the genotype-phenotype map in animal and plant genetics. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits and genome-wide association analysis.
