@@ -13,17 +13,18 @@ weight = 50
 
 +++
 ### Guest Instructor 
-  * Univeristy of Nebraska-Lincoln
-      * ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits [Slide](/pdf/BLUP_MME.pdf) & [R](/Rmd/GBLUP.html)
-  * Virginia Tech
-      * GWAS Workshop 2019 \[[HTML](/Rmd/GWASWorkshop_day3/BCFA_BN.html)\] \[ [Workshop Website](http://morotalab.org/VTGWAS2019/VTGWAS2019.html)\]
+  * Virginia Tech 
+      * GWAS Workshop (Summer 2019) \[[HTML](/Rmd/GWASWorkshop_day3/BCFA_BN.html)\] \[[Workshop Website](http://morotalab.org/VTGWAS2019/VTGWAS2019.html)\]
+  * Univeristy of Nebraska-Lincoln 
+      * ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits (Spring 2018) \[[Slide](/pdf/BLUP_MME.pdf)\] \[[R](/Rmd/GBLUP.html)\]
+  
 
 ### Graduate Teaching Assistant
-  * Virginia Tech
-      * ALS 3104: Animal Breeding and Genetics
+  * Virginia Tech 
+      * ALS 3104: Animal Breeding and Genetics (Spring 2019)
   * North Dakota State University
-      * ANSC 357: Animal Genetics
-      * AGRI 189: Skills for Academic Success
+      * ANSC 357: Animal Genetics (Spring 2016)
+      * AGRI 189: Skills for Academic Success (Fall 2015)
     
 ### Misc
   * Gaussian Bayesian Network \[[R](/Rmd/GBN.html)\]

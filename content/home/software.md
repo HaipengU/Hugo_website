@@ -14,4 +14,4 @@ weight = 50
 +++
 
 * R package
-  + **GCA**: An R package for genetic connectedness analysis across units using pedigree and genomic data. [Github Source](https://github.com/HaipengU/GCA) & [Documentation](/Rmd/Vignette.html)
+  + **GCA**: An R package for genetic connectedness analysis across units using pedigree and genomic data. \[[Github Source](https://github.com/HaipengU/GCA)\] \[[Documentation](/Rmd/Vignette.html)\]
