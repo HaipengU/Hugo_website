@@ -21,7 +21,7 @@ weight = 1
 
 [[education.courses]]
   course = "PhD Candidate, Quantitative Genetics"
-  institution = "University of Nebraska - Lincoln & Virginia Tech"
+  institution = "Virginia Tech"
 
 # [[education.courses]]
 # course = "PhD Student, Quantitative Genetics"
