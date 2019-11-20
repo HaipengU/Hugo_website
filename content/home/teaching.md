@@ -28,6 +28,9 @@ weight = 50
     
 ### Misc
   * Gaussian Bayesian Network \[[R](/Rmd/Teaching/GBN.html)\]
+  * Factor Analytic Model
+\[[R](/Rmd/Teaching/FA.html)\]
+  
 
 
 
