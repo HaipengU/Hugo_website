@@ -26,7 +26,7 @@ weight = 50
       * ANSC 357: Animal Genetics (Spring 2016)
       * AGRI 189: Skills for Academic Success (Fall 2015)
     
-### Misc
+### Tutorials
   * Gaussian Bayesian Network \[[R](/Rmd/Teaching/GBN.html)\]
   * Factor Analytic Model
 \[[R](/Rmd/Teaching/FA.html)\]
