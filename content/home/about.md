@@ -13,9 +13,7 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
-    "Image Analysis",
-    "Graphical Model",
-    "Methodology"
+    "Image Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -44,4 +42,4 @@ weight = 1
 # About me
 
 I am a Ph.D. candidate in the [Morota Lab](http://morotalab.org/) at the Department of Animal and Poultry Sciences 
-at Virginia Polytechnic Institute and State University. My overarching research interest is to leverage statistical methods and bioinformatics to better understand the genotype-phenotype map in animal and plant genetics. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits, genome-wide association analysis, and high-throughput phenotyping data analysis.
+at Virginia Polytechnic Institute and State University. My overarching research interest is to leverage statistical methods and bioinformatics to better understand the genotype-phenotype map in animal and plant genetics. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits, genome-wide association analysis, high-throughput phenotyping data analysis, and image analysis.
