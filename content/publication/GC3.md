@@ -19,6 +19,6 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "DOI"
+name = "Preprint"
 url = "https://www.biorxiv.org/content/10.1101/696419v2"
 +++
