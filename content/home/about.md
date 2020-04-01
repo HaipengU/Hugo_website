@@ -13,13 +13,14 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
-    "Image Analysis"
+    "Image Analysis",
+    "Computer Vision"
   ]
 
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "PhD Candidate, Quantitative Genetics"
+  course = "Ph.D., Quantitative Genetics"
   institution = "Virginia Tech"
 
 # [[education.courses]]
