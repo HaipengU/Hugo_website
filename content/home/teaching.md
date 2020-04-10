@@ -21,7 +21,7 @@ weight = 50
 
 ### Graduate Teaching Assistant
   * Virginia Tech 
-      * APSC 5984: Complex Trait Genomics (Spring 2020) 
+      * APSC 5984: Complex Trait Genomics (Spring 2020) \[[WWW](http://morotalab.org/apsc5984-2020/APSC5984.html)\]
       * ALS 3104: Animal Breeding and Genetics (Spring 2019)
   * North Dakota State University
       * ANSC 357: Animal Genetics (Spring 2016)
