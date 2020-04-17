@@ -13,12 +13,12 @@ selected = false
 title = "GCA: An R package for genetic connectedness analysis using pedigree and genomic data"
 url_code = ""
 url_dataset = ""
-url_pdf = "papers/GC3.pdf"
+# url_pdf = "papers/GC3.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "Preprint"
+name = "bioRxiv"
 url = "https://www.biorxiv.org/content/10.1101/696419v2"
 +++

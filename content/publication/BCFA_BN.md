@@ -13,7 +13,7 @@ selected = false
 title = "Genomic Bayesian confirmatory factor analysis and Bayesian network to characterize a wide spectrum of rice phenotypes"
 url_code = ""
 url_dataset = ""
-url_pdf = "papers/BCFA_BN.pdf"
+# url_pdf = "papers/BCFA_BN.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -21,4 +21,16 @@ url_video = ""
 [[url_custom]]
 name = "DOI"
 url = "http://www.g3journal.org/content/early/2019/04/16/g3.119.400154"
+
+[[url_custom]]
+name = "PubMed"
+url = "https://www.ncbi.nlm.nih.gov/pubmed/30992319"
+
+[[url_custom]]
+name = "EuropePMC"
+url = "http://europepmc.org/article/MED/30992319"
+
+[[url_custom]]
+name = "bioRxiv"
+url = "https://www.biorxiv.org/content/10.1101/435792v2"
 +++

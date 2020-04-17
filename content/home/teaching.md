@@ -28,9 +28,10 @@ weight = 50
       * AGRI 189: Skills for Academic Success (Fall 2015)
     
 ### Tutorials
+  * Factor Analytic Model \[[R](/Rmd/Teaching/FA.html)\]
   * Gaussian Bayesian Network \[[R](/Rmd/Teaching/GBN.html)\]
-  * Factor Analytic Model
-\[[R](/Rmd/Teaching/FA.html)\]
+  * Structural Equation Model GWAS \[[R](/Rmd/Teaching/SEMGWAS.html)\]
+  
   
 
 

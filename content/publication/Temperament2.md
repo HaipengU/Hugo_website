@@ -13,12 +13,12 @@ selected = false
 title = "Deciphering cattle temperament measures derived from a four-platform standing scale using genetic factor analytic modeling"
 url_code = ""
 url_dataset = ""
-url_pdf = "papers/Temperament2.pdf"
+# url_pdf = "papers/Temperament2.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "Preprint"
+name = "bioRxiv"
 url = "https://www.biorxiv.org/content/10.1101/2020.01.20.913343v1"
 +++

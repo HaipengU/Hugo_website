@@ -13,7 +13,7 @@ selected = false
 title = "Genomic relatedness strengthens genetic connectedness across management units"
 url_code = ""
 url_dataset = ""
-url_pdf = "papers/GC1.pdf"
+# url_pdf = "papers/GC1.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -21,4 +21,16 @@ url_video = ""
 [[url_custom]]
 name = "DOI"
 url = "http://www.g3journal.org/content/7/10/3543"
+
+[[url_custom]]
+name = "PubMed"
+url = "https://www.ncbi.nlm.nih.gov/pubmed/28860185"
+
+[[url_custom]]
+name = "EuropePMC"
+url = "http://europepmc.org/article/MED/28860185"
+
+[[url_custom]]
+name = "bioRxiv"
+url = "https://www.biorxiv.org/content/10.1101/130138v2"
 +++

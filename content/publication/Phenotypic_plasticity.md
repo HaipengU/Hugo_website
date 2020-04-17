@@ -13,12 +13,12 @@ selected = false
 title = "Examining the relationships between phenotypic plasticity and local environments with genomic structural equation models"
 url_code = ""
 url_dataset = ""
-url_pdf = "papers/Phenotypic_plasticity.pdf"
+# url_pdf = "papers/Phenotypic_plasticity.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "Preprint"
+name = "bioRxiv"
 url = "https://www.biorxiv.org/content/10.1101/2019.12.11.873257v1"
 +++
