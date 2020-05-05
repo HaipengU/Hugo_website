@@ -36,7 +36,7 @@ baseName = "feed"
 
 [params]
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "ocean"
+  color_theme = "vt"
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
   name = "Haipeng Yu"
@@ -59,7 +59,7 @@ baseName = "feed"
   latitude = "37.231264"
   longitude = "-80.426745"
   zoom = 9
-
+  
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "2006-01-02"

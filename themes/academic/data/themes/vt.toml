@@ -1,0 +1,20 @@
+# Theme metadata
+name = "VT"
+
+# Is theme light or dark?
+light = true
+
+# Primary 
+primary = "#CF4420"
+primary_light = "#e64319"
+primary_dark = "#ba2b06"
+
+# Menu
+menu_primary = "#630031" # 500
+menu_text = "#fff"
+menu_text_active = "#CF4420" # A100
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
