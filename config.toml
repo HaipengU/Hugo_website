@@ -40,7 +40,7 @@ baseName = "feed"
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
   name = "Haipeng Yu"
-  role = "PhD Candidate"
+  role = "Ph.D."
   organizations = [{name = "Virginia Polytechnic Institute and State University", url = "" }]
   gravatar = false
   avatar = "haipeng.JPG"

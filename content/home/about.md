@@ -13,8 +13,7 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
-    "Image Analysis",
-    "Computer Vision"
+    "Image Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -22,6 +21,7 @@ weight = 1
 [[education.courses]]
   course = "Ph.D., Quantitative Genetics"
   institution = "Virginia Tech"
+  year = 2020
 
 # [[education.courses]]
 # course = "PhD Student, Quantitative Genetics"
@@ -42,5 +42,5 @@ weight = 1
 
 # About me
 
-I am a Ph.D. candidate in the [Morota Lab](http://morotalab.org/) at the Department of Animal and Poultry Sciences 
-at Virginia Polytechnic Institute and State University. My overarching research interest is to leverage statistical methods and bioinformatics to better understand the genotype-phenotype map in animal and plant genetics. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits, genome-wide association analysis, high-throughput phenotyping data analysis, and image analysis.
+I will join [Dr. Jack Dekkers' lab](https://www.ans.iastate.edu/people/jack-c-dekkers) this August as a postdoctoral research associate in the Department of Animal Science at Iowa State University. My research topic will be focusing on the integration of biological and whole-genome prediction models. My Ph.D. research in [Dr. Gota Morota's lab](http://morotalab.org/) at Virginia Tech centered on designing and modeling high-throughput phenotyping data in quantitative genetics and image analysis in computer vision. My overarching research interest is to understand the genotype-phenotype map in animals and plants using computational genetics. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits, genome-wide association analysis, high-throughput phenotyping data analysis, and image analysis.
+
