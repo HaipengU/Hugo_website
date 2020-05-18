@@ -163,7 +163,7 @@ baseName = "feed"
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+  url = "#preprints"
   weight = 2
 
 [[menu.main]]
