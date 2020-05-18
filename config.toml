@@ -43,7 +43,7 @@ baseName = "feed"
   role = "Ph.D."
   organizations = [{name = "Virginia Polytechnic Institute and State University", url = "" }]
   gravatar = false
-  avatar = "haipeng.JPG"
+  avatar = "haipeng2.jpg"
   email = "haipengyu@vt.edu"
   address = "3695 Litton Reaves Hall, 175 West Campus Drive, Virginia Tech, Blacksburg, Virginia 24061"
   office_hours = ""
