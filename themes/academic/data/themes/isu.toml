@@ -1,0 +1,20 @@
+# Theme metadata
+name = "ISU"
+
+# Is theme light or dark?
+light = true
+
+# Primary 
+primary = "#F1BE48"
+primary_light = "#F1BE48" # #f2b72e
+primary_dark = "#F1BE48" # #d99b0d
+
+# Menu
+menu_primary = "#C8102E" # 500
+menu_text = "#fff"
+menu_text_active = "#F1BE48" # A100
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
