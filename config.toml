@@ -36,16 +36,16 @@ baseName = "feed"
 
 [params]
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`. 
-  color_theme = "vt"
+  color_theme = "isu"
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
   name = "Haipeng Yu"
-  role = "Ph.D."
-  organizations = [{name = "Virginia Polytechnic Institute and State University", url = "" }]
+  role = "Postdoctoral Research Associate"
+  organizations = [{name = "Iowa State University", url = "" }]
   gravatar = false
   avatar = "haipeng2.jpg"
-  email = "haipengyu@vt.edu"
-  address = "3695 Litton Reaves Hall, 175 West Campus Drive, Virginia Tech, Blacksburg, Virginia 24061"
+  email = "hpyu@iastate.edu"
+  address = "Kildee Hall, Iowa State University, Ames, Iowa 50011"
   office_hours = ""
   phone = ""
   skype = ""
@@ -120,7 +120,7 @@ baseName = "feed"
   #[[params.social]]
     #icon = "envelope"
     #icon_pack = "fa"
-    #link = "mailto:haipengyu@vt.edu"
+    #link = "mailto:hpyu@iastate.edu"
   
   [[params.social]]
     icon = "github"
