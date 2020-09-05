@@ -25,4 +25,13 @@ url = "https://doi.org/10.3389/fgene.2020.00599"
 [[url_custom]]
 name = "bioRxiv"
 url = "https://www.biorxiv.org/content/10.1101/2020.01.20.913343v2"
+
+[[url_custom]]
+name = "PubMed"
+url = "https://pubmed.ncbi.nlm.nih.gov/32595702/"
+
+[[url_custom]]
+name = "EuropePMC"
+url = "http://europepmc.org/article/MED/32595702"
+
 +++

@@ -12,6 +12,10 @@ subtitle = ""
 weight = 20
 
 +++
+
+* Mehdi Momen, Madhav Bhatta, Waseem Hussain, __Haipeng Yu__, and Gota Morota. Modeling multiple phenotypes in wheat using data-driven genomic explanatory factor analysis and Bayesian network learning. bioRxiv.
+\[[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.03.282335v1)\] 
+
 * Malachy T. Campbell, __Haipeng Yu__, Mehdi Momen, and Gota Morota. Examining the relationships between phenotypic plasticity and local environments with genomic structural equation models. bioRxiv.  \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.11.873257v1)\] 
 
 * __Haipeng Yu__ and Gota Morota. GCA: An R package for genetic connectedness analysis using pedigree and genomic data. bioRxiv.  \[[bioRxiv](https://www.biorxiv.org/content/10.1101/696419v2)\] 
