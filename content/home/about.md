@@ -13,7 +13,8 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
-    "Image Analysis"
+    "Growth Model",
+    "Computer Vision"
   ]
 
 # List your qualifications (such as academic degrees).

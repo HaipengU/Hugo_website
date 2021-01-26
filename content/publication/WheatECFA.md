@@ -10,7 +10,7 @@ publication = "Plant Direct"
 publication_short = "Plant Direct (In Press)"
 publication_types = ["2"]
 selected = false
-title = "Modeling multiple phenotypes in wheatusing  data-driven  genomic  exploratory  factor  analysis  and  Bayesian  network  learning"
+title = "Modeling multiple phenotypes in wheat using data-driven genomic exploratory factor analysis and Bayesian network learning"
 url_code = ""
 url_dataset = ""
 # url_pdf = "papers/BCFA_BN.pdf"
@@ -18,10 +18,10 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-# [[url_custom]]
-# name = "DOI"
-# url = "http://www.g3journal.org/content/early/2019/04/16/g3.119.400154"
-# 
+[[url_custom]]
+name = "DOI"
+url = "https://onlinelibrary.wiley.com/doi/10.1002/pld3.304"
+
 # [[url_custom]]
 # name = "PubMed"
 # url = "https://www.ncbi.nlm.nih.gov/pubmed/30992319"
