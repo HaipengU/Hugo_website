@@ -7,7 +7,7 @@ date = "2021-01-26"
 # image_preview = ""
 math = true
 publication = "BMC Genomics"
-publication_short = "BMC Genomics (In Press)"
+publication_short = "BMC Genomics"
 publication_types = ["2"]
 selected = false
 title = "GCA: An R package for genetic connectedness analysis using pedigree and genomic data"
@@ -17,6 +17,10 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+
+[[url_custom]]
+name = "DOI"
+url = "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07414-7"
 
 [[url_custom]]
 name = "bioRxiv"
