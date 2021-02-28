@@ -14,9 +14,9 @@ weight = 50
 +++
 ### Guest Instructor 
   * Virginia Tech 
-      * GWAS Workshop (Summer 2019) \[[HTML](/Rmd/GWASWorkshop_day3/BCFA_BN.html)\] \[[Workshop Website](http://morotalab.org/VTGWAS2019/VTGWAS2019.html)\]
+      * GWAS Workshop (Summer 2019) \[[Slides](/Rmd/GWASWorkshop_day3/BCFA_BN.html)\] \[[Workshop Website](http://morotalab.org/VTGWAS2019/VTGWAS2019.html)\]
   * Univeristy of Nebraska-Lincoln 
-      * ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits (Spring 2018) \[[Slide](/pdf/Teaching/BLUP_MME.pdf)\] \[[R](/Rmd/Teaching/GBLUP.html)\]
+      * ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits (Spring 2018) \[[Slides](/pdf/Teaching/BLUP_MME.pdf)\] \[[WWW](/Rmd/Teaching/GBLUP.html)\]
   
 
 ### Graduate Teaching Assistant
@@ -28,9 +28,9 @@ weight = 50
       * AGRI 189: Skills for Academic Success (Fall 2015)
     
 ### Tutorials
-  * Factor Analytic Model \[[R](/Rmd/Teaching/FA.html)\]
-  * Gaussian Bayesian Network \[[R](/Rmd/Teaching/GBN.html)\]
-  * Structural Equation Model GWAS \[[R](/Rmd/Teaching/SEMGWAS.html)\]
+  * Factor Analytic Model \[[WWW](/Rmd/Teaching/FA.html)\]
+  * Gaussian Bayesian Network \[[WWW](/Rmd/Teaching/GBN.html)\]
+  * Structural Equation Model GWAS \[[WWW](/Rmd/Teaching/SEMGWAS.html)\]
   
   
 
