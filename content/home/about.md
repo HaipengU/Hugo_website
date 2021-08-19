@@ -13,8 +13,8 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
-    "Growth Model",
-    "Computer Vision"
+    "Growth Model"
+    #"Computer Vision"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -43,5 +43,5 @@ weight = 1
 
 # About me
 
-I am a postdoctoral research associate in [Dr. Jack Dekkers' lab](https://www.ans.iastate.edu/people/jack-c-dekkers) in the Department of Animal Science at Iowa State University. My research at Iowa focuses on the integration of biological and whole-genome prediction models. My Ph.D. research in [Dr. Gota Morota’s lab](http://morotalab.org/) at Virginia Tech centered on designing and modeling high-throughput phenotyping data in quantitative genetics and image analysis in computer vision. My overarching research interest is to understand the genotype-phenotype map in animals and plants using computational and statistical genetics. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits, genome-wide association analysis, high-throughput phenotyping data analysis, and image analysis.
+I am a postdoctoral research associate in [Dr. Jack Dekkers' lab](https://www.ans.iastate.edu/people/jack-c-dekkers) in the Department of Animal Science at Iowa State University. My research at Iowa focuses on the integration of biological and whole-genome prediction models. My Ph.D. research in [Dr. Gota Morota’s lab](http://morotalab.org/) at Virginia Tech centered on designing and modeling high-throughput phenotyping data in quantitative genetics. My overarching research interest is to understand the genotype-phenotype map in animals and plants using computational and statistical genetics. Particularly, I am interested in developing and applying statistical methods to the whole-genome prediction of complex traits, genome-wide association analysis, high-throughput phenotyping data analysis, and image analysis.
 
