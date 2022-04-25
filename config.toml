@@ -188,7 +188,7 @@ baseName = "feed"
 
 [[menu.main]]
   name = "CV"
-  url = "cv/HaipengYu_cv.pdf"
+  url = "cv/yu.pdf"
   weight = 6
 
  [[menu.main]]
