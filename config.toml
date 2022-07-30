@@ -35,7 +35,7 @@ post = "/blog/:year/:month/:filename"
 baseName = "feed"
 
 [params]
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`. 
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, `vt`, `isu`, `uf`. 
   color_theme = "isu"
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
