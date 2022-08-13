@@ -36,16 +36,16 @@ baseName = "feed"
 
 [params]
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, `vt`, `isu`, `uf`. 
-  color_theme = "isu"
+  color_theme = "uf"
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
   name = "Haipeng Yu"
-  role = "Postdoctoral Research Associate"
-  organizations = [{name = "Iowa State University", url = "" }]
+  role = "Assistant Professor"
+  organizations = [{name = "University of Florida", url = "" }]
   gravatar = false
-  avatar = "haipeng2.jpg"
-  email = "hpyu@iastate.edu"
-  address = "239B Kildee Hall, Iowa State University, Ames, Iowa 50011"
+  avatar = "HY.png"
+  email = "haipengyu@ufl.edu"
+  address = "2250 Shealy Dr. Gainesville, FL 32611"
   office_hours = ""
   phone = ""
   skype = ""
@@ -168,7 +168,7 @@ baseName = "feed"
 
 [[menu.main]]
   name = "Publications"
-  url = "#preprints"
+  url = "#publications"  # change to #preprints when preprints are available (activate via home/preprints.md). 
   weight = 2
 
 [[menu.main]]

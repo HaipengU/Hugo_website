@@ -5,14 +5,14 @@ name = "UF"
 light = true
 
 # Primary 
-primary = "#50B3F3"  # #51B3F3
+primary = "#50B3F3"  
 primary_light = "#50B3F3" 
 primary_dark = "#50B3F3" 
 
 # Menu
-menu_primary = "#51B3F3" # #FA4616 #4e70f5
+menu_primary = "#51B3F3" # 
 menu_text = "#fff"
-menu_text_active = "#0021A5"  # #0021A5
+menu_text_active = "#005ea5"  ##0021A5
 menu_title = "#fff"
 
 # Home sections
