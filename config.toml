@@ -140,7 +140,7 @@ baseName = "feed"
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
-    link = "https://publons.com/researcher/3647275/haipeng-yu/"  
+    link = "https://www.webofscience.com/wos/author/record/2031351"  
   
   [[params.social]]
     icon = "twitter"
