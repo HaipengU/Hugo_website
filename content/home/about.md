@@ -13,9 +13,11 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
-    "Growth Model",
+    "Bayesian Machine Learning",
+    "Precision Livestock Farming",
     "Computer Vision",
-    "Bayesian Machine Learning"
+    "Deep Learning",
+    
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,11 +27,6 @@ weight = 1
   institution = "Virginia Tech"
   year = 2020
 
-# [[education.courses]]
-# course = "PhD Student, Quantitative Genetics"
-# institution = "University of Nebraska - Lincoln"
-# year = 2018
-  
 [[education.courses]]
   course = "M.S., Animal Breeding and Genetics"
   institution = "North Dakota State University"
@@ -39,7 +36,7 @@ weight = 1
   course = "B.S., Veterinary Medicine"
   institution = "Qingdao Agricultural University"
   year = 2013
- 
+
 +++
 
 # About me
