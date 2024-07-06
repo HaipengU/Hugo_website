@@ -15,6 +15,7 @@ weight = 50
 ### Lead Instructor 
   * University of Florida
     * ANS 6932 Digital Data Analysis for Precision Livestock Farming (Fall 2023)
+    * ANS 6939 Artificial Intelligence in Animal Sciences Journal Club (Spring 2024)
 
   
 ### Guest Instructor 

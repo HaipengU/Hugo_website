@@ -13,7 +13,6 @@ weight = 1
     interests = [
     "Quantitative Genetics",
     "Statistical Genetics",
-    "Bayesian Machine Learning",
     "Precision Livestock Farming",
     "Computer Vision",
     "Deep Learning",
