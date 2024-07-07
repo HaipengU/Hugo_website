@@ -8,7 +8,11 @@ title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 20
 +++
 
+<section id="publications">
+</section>
+
 [View my publications](https://uf-aiaos.github.io/publications/)
+
