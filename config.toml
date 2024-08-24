@@ -43,7 +43,7 @@ baseName = "feed"
   role = "Assistant Professor"
   organizations = [{name = "University of Florida", url = "" }]
   gravatar = false
-  avatar = "HY.png"
+  avatar = "HY.jpg"
   email = "haipengyu@ufl.edu"
   address = "2250 Shealy Dr. Gainesville, FL 32611"
   office_hours = ""
