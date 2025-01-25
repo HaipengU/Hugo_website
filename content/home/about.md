@@ -26,16 +26,6 @@ weight = 1
   institution = "Virginia Tech"
   year = 2020
 
-[[education.courses]]
-  course = "M.S., Animal Breeding and Genetics"
-  institution = "North Dakota State University"
-  year = 2016
-
-[[education.courses]]
-  course = "B.S., Veterinary Medicine"
-  institution = "Qingdao Agricultural University"
-  year = 2013
-
 +++
 
 # About me

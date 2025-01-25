@@ -14,15 +14,16 @@ weight = 50
 +++
 ### Lead Instructor 
   * University of Florida
-    * ANS 6932 Digital Data Analysis for Precision Livestock Farming (Fall 2023)
-    * ANS 6939 Artificial Intelligence in Animal Sciences Journal Club (Spring 2024)
+    * ANS 6932: R Programming in Animal Data Science (Spring 2025)
+    * ANS 6932: Digital Data Analysis for Precision Livestock Farming (Fall 2023)
+    * ANS 6939: Artificial Intelligence in Animal Sciences Journal Club (Spring 2024)
 
   
 ### Guest Instructor 
   * Virginia Tech 
       * GWAS Workshop (Summer 2019) \[[Slides](/Rmd/GWASWorkshop_day3/BCFA_BN.html)\] \[[Workshop Website](http://morotalab.org/VTGWAS2019/VTGWAS2019.html)\]
   * Univeristy of Nebraska-Lincoln 
-      * ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits (Spring 2018) \[[Slides](/pdf/Teaching/BLUP_MME.pdf)\] \[[WWW](/Rmd/Teaching/GBLUP.html)\]
+      * ASCI 944/STAT 844: Quantitative Methods for Genomics of Complex Traits (Spring 2018) \[[Slides](/pdf/Teaching/BLUP_MME.pdf)\] \[[WWW](/Rmd/Teaching/GBLUP.html)\]
   
 ### Graduate Teaching Assistant
   * Virginia Tech 
